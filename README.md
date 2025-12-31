@@ -51,5 +51,3 @@ Subjective questions answered separately in a PDF file
 
 **Author** - Hritik Vijay Thorat
 Data Analyst
-Hritik Vijay Thorat
-Data Analyst with interest in Regression Modeling and Business Analytics
